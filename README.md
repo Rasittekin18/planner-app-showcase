@@ -24,4 +24,8 @@
 
 ## 📸 Ekran Görüntüleri
 
-*Not: Uygulama içinden aldığınız 3 adet fotoğrafı GitHub üzerinden **Add file -> Upload files** butonuna basarak bu repoya ekleyebilir veya doğrudan bu README dosyasını düzenleyip sürükle-bırak ile yükleyebilirsiniz.*
+<img width="776" height="766" alt="Screenshot_1" src="https://github.com/user-attachments/assets/6bc00ec4-2a22-4b16-9251-7fc78703cbdf" />
+<img width="363" height="769" alt="Screenshot_3" src="https://github.com/user-attachments/assets/8a6bba9e-ac98-477d-a0fc-f287395a9deb" />
+<img width="1600" height="807" alt="Screenshot_2" src="https://github.com/user-attachments/assets/ceb41066-1bea-4780-a2d0-881162ad2dc9" />
+
+
