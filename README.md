@@ -2,9 +2,15 @@
   <h1>Gelişim Takibi & Kişisel Planlayıcı 🚀</h1>
   <p><strong>Hayatınızı organize edin, alışkanlıklarınızı takip edin ve hedeflerinize ulaşın.</strong></p>
   
-  <a href="https://planner-app-chi-three.vercel.app/">
-    <img src="https://img.shields.io/badge/Canlı_Demo-Yayında-success?style=for-the-badge&logo=vercel" alt="Canlı Demo" />
+  <br/>
+
+  <a href="https://planner-app-chi-three.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Uygulamayı_Canlı_Olarak_Dene-Buraya_Tıklayın-2ea44f?style=for-the-badge&logo=vercel" alt="Canlı Demo İçin Tıklayın" height="45" />
   </a>
+  <br/>
+  <p><i>👉 Hemen denemek için yukarıdaki butona tıklayabilirsiniz. 👈</i></p>
+  
+  <br/>
 </div>
 
 ---
